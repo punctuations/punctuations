@@ -1,16 +1,20 @@
-### Hi there 👋
+### **👋 Hi! Welcome to my GitHub profile.**
 
-<!--
-**punctuations/punctuations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matt, I'm from British Columbia, Canada. 🇨🇦
 
-Here are some ideas to get you started:
+I'm a self-taught Full Stack Web Developer with 3 years of ~~Googling~~ programming experience.
+I am usually always working on something, you can check out all my projects over on [**my website**](https://dont-ping.me/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☕ **Contact me!**
+
+###### or just follow my socials
+
+Email ✉️ : [**matt@dont-ping.me**](mailto:matt@dont-ping.me)
+
+Twitter 🐦 : [**@alloutofmatt**](https://twitter.com/alloutofmatt)
+
+Discord 💬 : [**mattt#0596**](https://discord.gg/SK53UMK)
+
+see more over at my site [**dont-ping.me**](https://dont-ping.me/)
+
+###### thanks for coming to my profile :)
