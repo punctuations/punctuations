@@ -17,4 +17,8 @@ Discord 💬 : [**mattt#0596**](https://discord.gg/SK53UMK)
 
 see more over at my site [**dont-ping.me**](https://dont-ping.me/)
 
+### 📊 **Some Stats!**
+
+![Stats](https://github-readme-stats.vercel.app/api?username=punctuations&show_icons=true&hide_title=true)
+
 ###### thanks for coming to my profile :)
