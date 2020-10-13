@@ -11,7 +11,7 @@ I am usually always working on something, you can check out all my projects over
 
 Email ✉️ : [**matt@dont-ping.me**](mailto:matt@dont-ping.me)
 
-Twitter 🐦 : [**@alloutofmatt**](https://twitter.com/alloutofmatt)
+Twitter 🐦 : [**@wwwdotca**](https://twitter.com/wwwdotca)
 
 Discord 💬 : [**mattt#0596**](https://discord.gg/SK53UMK)
 
