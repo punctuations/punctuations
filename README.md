@@ -2,7 +2,7 @@
 
 I'm Matt, I'm from British Columbia, Canada. 🇨🇦
 
-I'm a self-taught Full Stack Javascript Engineer with 4 years of ~~Googling~~ programming experience.
+I'm a self-taught Full Stack Javascript Engineer with 5 years of ~~Googling~~ programming experience.
 I am usually always working on something, you can check out all my projects over on [**my website**](https://dont-ping.me/)!
 
 ### ☕ **Contact me!**
@@ -11,7 +11,7 @@ I am usually always working on something, you can check out all my projects over
 
 Email ✉️ : [**matt@dont-ping.me**](mailto:matt@dont-ping.me)
 
-Twitter 🐦 : [**@wwwdotca**](https://twitter.com/wwwdotca)
+Twitter 🐦 : [**@atmattt**](https://twitter.com/atmattt)
 
 Discord 💬 : [**mattt#0596**](https://discord.gg/SK53UMK)
 
