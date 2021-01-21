@@ -17,10 +17,8 @@ Discord 💬 : [**mattt#0596**](https://discord.gg/SK53UMK)
 
 see more over at my site [**dont-ping.me**](https://dont-ping.me/)
 
-### 📊 **Some Stats!**
+### 📊 **Projects?**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punctuations&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api/?username=punctuations&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=punctuations&repo=ac&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.producthunt.com/posts/ac?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ac" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=279749&theme=light" alt="ac - Animal Crossing music depending on the local time & weather! | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
