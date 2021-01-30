@@ -13,7 +13,7 @@ Email ✉️ : [**matt@dont-ping.me**](mailto:matt@dont-ping.me)
 
 Twitter 🐦 : [**@atmattt**](https://twitter.com/atmattt)
 
-Discord 💬 : [**mattt#0596**](https://discord.gg/SK53UMK)
+Discord 💬 : [**mattt#0596**](https://discord.gg/R3QtA68Cbf)
 
 see more over at my site [**dont-ping.me**](https://dont-ping.me/)
 
