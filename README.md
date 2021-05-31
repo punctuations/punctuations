@@ -25,3 +25,4 @@ see more over at my site [**dont-ping.me**](https://dont-ping.me/)
 <a href="https://www.producthunt.com/posts/ac?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ac" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=279749&theme=dark" alt="ac - Animal Crossing music depending on the local time & weather! | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ###### thanks for coming to my profile :)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpunctuations&count_bg=%23AEAEAE&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
