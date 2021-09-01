@@ -3,7 +3,7 @@
 I'm Matt, I'm from British Columbia, Canada. 🇨🇦
 
 I'm a self-taught Typescript Developer with 5 years of ~~Googling~~ programming experience.
-I am usually always working on something, you can check out all my projects over on [**my website**](https://dont-ping.me/)!
+I am usually always working on something, you can check out all my projects over on [**my website**](https://dont-ping.me)!
 
 ### ☕ **Contact me!**
 
@@ -11,11 +11,11 @@ I am usually always working on something, you can check out all my projects over
 
 Email ✉️ : [**matt@dont-ping.me**](mailto:matt@dont-ping.me)
 
-Twitter 🐦 : [**@atmattt**](https://twitter.com/atmattt)
+Twitter 🐦 : [**@atmattt**](https://dont-ping.me/twitter)
 
-Discord 💬 : [**mattt#0596**](https://discord.gg/R3QtA68Cbf)
+Discord 💬 : [**mattt#0596**](https://dont-ping.me/discord)
 
-see more over at my site [**dont-ping.me**](https://dont-ping.me/)
+see more over at my site [**dont-ping.me**](https://dont-ping.me)
 
 ### 📊 **Projects?**
 
