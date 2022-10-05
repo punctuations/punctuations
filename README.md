@@ -26,4 +26,4 @@ see more over at my site [**dont-ping.me**](https://dont-ping.me)
 <a href="https://www.producthunt.com/posts/presence-8?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-presence-8" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=306714&theme=dark" alt="presence - A simple and elegant solution to images of your social media | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> <a href="https://www.producthunt.com/posts/ac?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ac" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=279749&theme=dark" alt="ac - Animal Crossing music depending on the local time & weather! | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ###### thanks for checking out my profile :)
-![Hits](https://hits.link/hits?url=https://github.com/punctuations)
+![Hits](https://hits-app.vercel.app/hits?url=https://github.com/punctuations)
