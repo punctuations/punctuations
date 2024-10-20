@@ -1,1 +1,1 @@
-![image](https://github.com/punctuations/punctuations/assets/37005919/578c23f4-4ae6-426c-be84-bf03ccf041dd)
+![IMG_6160](https://github.com/user-attachments/assets/6f6bc49f-326f-43cf-94d8-6cb8d556281e)
